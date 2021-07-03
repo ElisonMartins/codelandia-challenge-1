@@ -1,5 +1,6 @@
 <h1> Codelândia </h1>
 <p>Blog fictício desenvolvido durante o primeiro desafio do servidor Codelândia</p>
+<p>Deploy: https://elisonmartins.github.io/codelandia-challenge-1/
 
 https://user-images.githubusercontent.com/68920728/124365554-39fe5c00-dc1f-11eb-87a9-5872d4f27943.mp4
 
